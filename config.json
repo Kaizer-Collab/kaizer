@@ -32,7 +32,7 @@
   "nickNameBot": "Kaizer AI",
   "prefix": "/",
   "usePrefix": {
-    "enable": false,
+    "enable": true,
     "adminUsePrefix": {
       "enable": false,
       "specificUids": []

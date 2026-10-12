@@ -1,7 +1,5 @@
 {
   "mainThreadId": "2349229388914312",
-  "ownerName": "Edward" , 
-  "godUID": "61585553093878",
   "notesMainThreadId": "MANDATORY: Set your main thread ID here. Use the 'tid' command to get your thread ID, then paste it here and restart the bot.",
   "botAccount": {
     "email": "harukiizxian@gmail.com",
@@ -32,11 +30,11 @@
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
   "nickNameBot": "Kaizer AI",
-  "prefix": "!",
+  "prefix": "`",
   "usePrefix": {
-    "enable": true,
+    "enable": false,
     "adminUsePrefix": {
-      "enable": true,
+      "enable": false,
       "specificUids": []
     }
   },
@@ -45,7 +43,7 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    ""
+    "100070646281323"
   ],
   "whiteListMode": {
     "enable": false,
@@ -64,7 +62,7 @@
     "uriMongodb": "",
     "autoSyncWhenStart": false,
     "autoRefreshThreadInfoFirstTime": true,
-    "notes": "(1) type selects 'json' or 'sqlite' or 'mongodb'. If you cho61585553093878ose mongodb, enter uri connect mongodb in the uriMongodb section, instructions to get uri connect mongodb at: https://youtu.be/z1f9urHW5xY. I recommend using 'mongodb' or 'sqlite', json is not recommended because it is not stable. (2) when you set autoSyncWhenStart to true, the bot will automatically synchronize the data in the database when starting the bot, this will make the bot start slower. (3) when you set autoRefreshThreadInfoFirstTime to true, the bot will automatically refresh the thread information when get first message from the thread since starting the bot"
+    "notes": "(1) type selects 'json' or 'sqlite' or 'mongodb'. If you choose mongodb, enter uri connect mongodb in the uriMongodb section, instructions to get uri connect mongodb at: https://youtu.be/z1f9urHW5xY. I recommend using 'mongodb' or 'sqlite', json is not recommended because it is not stable. (2) when you set autoSyncWhenStart to true, the bot will automatically synchronize the data in the database when starting the bot, this will make the bot start slower. (3) when you set autoRefreshThreadInfoFirstTime to true, the bot will automatically refresh the thread information when get first message from the thread since starting the bot"
   },
   "timeZone": "Asia/Dhaka",
   "dashBoard": {
@@ -223,28 +221,6 @@
   "typingDuration": 2000,
   "fcaType": "stfca",
   "notesFcaType": "FCA library to use: 'stfca' for ST-FCA or 'dongdev' for @dongdev/fca-unofficial. Switching will clear cookies and restart bot.",
-  "githubIntegration": {
-    "enable": false,
-    "repoOwner": "",
-    "repoName": "",
-    "token": "",
-    "branch": "main",
-    "autoCommit": true,
-    "autoSyncOnUpdate": true,
-    "commitMessage": "Auto-sync: {action} - {timestamp}",
-    "excludeFiles": [
-      "account.txt",
-      "account.txt2",
-      "node_modules",
-      ".git",
-      "backups",
-      ".replit",
-      "replit.nix",
-      "database/data"
-    ],
-    "notes": "GitHub integration for auto-syncing changes. Set enable to true and fill in repoOwner, repoName, and token. Token should have repo permissions. Set autoSyncOnUpdate to true to auto-sync after updates."
-  }
-}ary to use: 'stfca' for ST-FCA or 'dongdev' for @dongdev/fca-unofficial. Switching will clear cookies and restart bot.",
   "githubIntegration": {
     "enable": false,
     "repoOwner": "",

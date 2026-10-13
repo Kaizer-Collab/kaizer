@@ -2,7 +2,7 @@ module.exports = {
   config: {
     name: "goibot",
     version: "1.0.2",
-    author: "Siegfried Samá",
+    author: "Kaizer",
     countDown: 0,
     role: 0,
     description: { en: "Auto-reply when someone messages the bot" },
@@ -15,7 +15,7 @@ module.exports = {
     const { threadID, messageID } = event;
 
     const tl = [
-      "hi, I'm siegfried's bot", "What do you call me??", "i love you siegfried",
+      "hi, I'm Edward's bot", "What do you call me??", "i love you siegfried",
       "Love you >3", "Hi, hello baby wife:3", "What's wrong with the wife calling??",
       "Use callad to communicate with admin!", "You are the cutest bot on the planet",
       "What are you saying pig", "It's me~~~~", "Love you BLACK the most",

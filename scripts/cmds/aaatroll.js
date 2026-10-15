@@ -285,7 +285,6 @@ const TROLL_LINES = [
 ‎" ANO NA TABAAAA NAGLOADING NA BA UTAK MO ☄️☄️☄️ ",
   "di mo'ko kayang sabayan tas asar kapa HAHAHHAHA",
   "Naaawa Nako Sayo Bagal Mo Magreply Taba🥊🤣",
-  "Mysteriousq Win😃💯"
 ];
 
 function buildMsg(raw, name, targetID) {

@@ -1,5 +1,6 @@
-{
-  "mainThreadId": "2349229388914312",
+"mainThreadId": "2349229388914312",
+  "ownerName": "Edward", 
+  "godUID": "61585553093878",
   "notesMainThreadId": "MANDATORY: Set your main thread ID here. Use the 'tid' command to get your thread ID, then paste it here and restart the bot.",
   "botAccount": {
     "email": "harukiizxian@gmail.com",
@@ -9,7 +10,7 @@
     "autoUseWhenEmpty": true,
     "notes": "Bot account configuration. When account.txt is empty, bot will automatically attempt to fetch cookies from this account. 2FA is now supported - enter your 6-digit code in twoFactorCode field or the bot will prompt you during login."
   },
-  "twoIdMode": {
+"twoIdMode": {
     "enable": false,
     "secondaryAccount": {
       "email": "",

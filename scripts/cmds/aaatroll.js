@@ -1,6 +1,5 @@
 if (!global.GoatBot.trollSessions) global.GoatBot.trollSessions = new Map();
 const trollSessions = global.GoatBot.trollSessions;
-
 const TROLL_LINES = [
   "Hoy [name] tanga😂😂🥊🥊",
   "Labas Ka AsoKo Tawag Ka Ng Amo Mo😂😂🥊🥊",
@@ -368,7 +367,7 @@ module.exports = {
       const secs = elapsed % 60;
       const timeStr = mins > 0 ? `${mins} min ${secs} sec` : `${secs} sec`;
 
-      const finalBody = `MYSTERIOUSq ON TOP 🔝\n\n${name} ON TRASH🚮🚮🚮\n\n\nREASON BAKIT NATALO:\n\n- MAHINA\n- NAASAR SA SIMPLING TROLL\n- DI AKO KAYANG SABAYAN\n- MATABA ANG MGA KAMAY\n- SA CLIPBOARD LANG UMAASA SI TABA\n- ASUKO SI TABA\n\nDuration:\n${timeStr}`;
+      const finalBody = `Kaizer On Top 🔝\n\n${name} ON TRASH🚮🚮🚮\n\n\nREASON BAKIT NATALO:\n\n- MAHINA\n- NAASAR SA SIMPLING TROLL\n- DI AKO KAYANG SABAYAN\n- MATABA ANG MGA KAMAY\n- SA CLIPBOARD LANG UMAASA SI TABA\n- ASUKO SI TABA\n\nDuration:\n${timeStr}`;
 
       const finalMentions = [];
       let idx = 0;

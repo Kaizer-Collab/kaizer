@@ -1,5 +1,6 @@
 if (!global.GoatBot.trollSessions) global.GoatBot.trollSessions = new Map();
 const trollSessions = global.GoatBot.trollSessions;
+
 const TROLL_LINES = [
   "Hoy [name] tanga😂😂🥊🥊",
   "Labas Ka AsoKo Tawag Ka Ng Amo Mo😂😂🥊🥊",

@@ -43,7 +43,7 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61585553093878"
+    "61569096795926"
   ],
   "whiteListMode": {
     "enable": false,
@@ -141,7 +141,7 @@
     },
     "sendToAdmin": {
       "enable": false,
-      "adminId": ""
+      "adminId": "61569096795926"
     },
     "message": "🤖 Bot is now online and ready to serve!",
     "notes": "Bot startup notification settings. sendToThreads.threadIds can contain multiple thread IDs, sendToAdmin.adminId should contain single admin ID for notifications.Duo to fca issue maybe sendtoadmin not work."

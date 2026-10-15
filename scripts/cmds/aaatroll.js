@@ -74,6 +74,7 @@ const TROLL_LINES = [
   "BoBo🤡",
   "Bayot🤷🏿‍♂️",
   "Bading🤢",
+  "shet shet nakita ako[name]😭😂🫵
   "Ikaw Pa Mag admit Nyan MatabaKong Aso🙂👌🏿",
   "Nahihiya Ka Na Ata E🙂👌🏿",
   "[name] Asuko🙂👌🏿",

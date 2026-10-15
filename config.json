@@ -1,9 +1,11 @@
 {
-  "mainThreadId": "234922938891432",
+  "mainThreadId": "2349229388914312",
+  "ownerName": "Kaizer",
+  "godUID": "61569096795926",
   "notesMainThreadId": "MANDATORY: Set your main thread ID here. Use the 'tid' command to get your thread ID, then paste it here and restart the bot.",
   "botAccount": {
-    "email": "",
-    "password": "",
+    "email": "harukiizxian@gmail.com",
+    "password": "candy321",
     "twoFactorCode": "",
     "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6.2 Safari/605.1.15",
     "autoUseWhenEmpty": true,
@@ -29,12 +31,12 @@
   "antiInbox": false,
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-  "nickNameBot": "kaizer",
-  "prefix": "`",
+  "nickNameBot": "kaizer AI",
+  "prefix": "^",
   "usePrefix": {
-    "enable": false,
+    "enable": true,
     "adminUsePrefix": {
-      "enable": false,
+      "enable": true,
       "specificUids": []
     }
   },
@@ -43,7 +45,7 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100070646281323"
+    "61569096795926"
   ],
   "whiteListMode": {
     "enable": false,
